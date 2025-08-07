@@ -1,1 +1,1 @@
-"hej här är en fil som visar alla kurser"
+"Hej här är en fil som visar alla kurser."
